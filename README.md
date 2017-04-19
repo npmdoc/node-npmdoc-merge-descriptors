@@ -1,9 +1,14 @@
-# api documentation for  [merge-descriptors (v1.0.1)](https://github.com/component/merge-descriptors)  [![npm package](https://img.shields.io/npm/v/npmdoc-merge-descriptors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-merge-descriptors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-merge-descriptors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-merge-descriptors)
+# npmdoc-merge-descriptors
+
+#### api documentation for  [merge-descriptors (v1.0.1)](https://github.com/component/merge-descriptors)  [![npm package](https://img.shields.io/npm/v/npmdoc-merge-descriptors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-merge-descriptors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-merge-descriptors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-merge-descriptors)
+
 #### Merge objects using descriptors
 
-[![NPM](https://nodei.co/npm/merge-descriptors.png?downloads=true)](https://www.npmjs.com/package/merge-descriptors)
+[![NPM](https://nodei.co/npm/merge-descriptors.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/merge-descriptors)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-merge-descriptors_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-merge-descriptors/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Jonathan Ong",
-        "email": "me@jongleberry.com",
         "url": "http://jongleberry.com"
     },
     "bugs": {
@@ -26,12 +30,10 @@
     },
     "contributors": [
         {
-            "name": "Douglas Christopher Wilson",
-            "email": "doug@somethingdoug.com"
+            "name": "Douglas Christopher Wilson"
         },
         {
-            "name": "Mike Grabowski",
-            "email": "grabbou@gmail.com"
+            "name": "Mike Grabowski"
         }
     ],
     "dependencies": {},
@@ -56,85 +58,65 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "anthonyshort",
-            "email": "antshort@gmail.com"
+            "name": "anthonyshort"
         },
         {
-            "name": "clintwood",
-            "email": "clint@anotherway.co.za"
+            "name": "clintwood"
         },
         {
-            "name": "dfcreative",
-            "email": "df.creative@gmail.com"
+            "name": "dfcreative"
         },
         {
-            "name": "dominicbarnes",
-            "email": "dominic@dbarnes.info"
+            "name": "dominicbarnes"
         },
         {
-            "name": "dougwilson",
-            "email": "doug@somethingdoug.com"
+            "name": "dougwilson"
         },
         {
-            "name": "ianstormtaylor",
-            "email": "ian@ianstormtaylor.com"
+            "name": "ianstormtaylor"
         },
         {
-            "name": "jonathanong",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jonathanong"
         },
         {
-            "name": "jongleberry",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jongleberry"
         },
         {
-            "name": "juliangruber",
-            "email": "julian@juliangruber.com"
+            "name": "juliangruber"
         },
         {
-            "name": "mattmueller",
-            "email": "mattmuelle@gmail.com"
+            "name": "mattmueller"
         },
         {
-            "name": "queckezz",
-            "email": "fabian.eichenberger@gmail.com"
+            "name": "queckezz"
         },
         {
-            "name": "stephenmathieson",
-            "email": "me@stephenmathieson.com"
+            "name": "stephenmathieson"
         },
         {
-            "name": "thehydroimpulse",
-            "email": "dnfagnan@gmail.com"
+            "name": "thehydroimpulse"
         },
         {
-            "name": "timaschew",
-            "email": "timaschew@gmail.com"
+            "name": "timaschew"
         },
         {
-            "name": "timoxley",
-            "email": "secoif@gmail.com"
+            "name": "timoxley"
         },
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "tootallnate",
-            "email": "nathan@tootallnate.net"
+            "name": "tootallnate"
         },
         {
-            "name": "trevorgerhardt",
-            "email": "trevorgerhardt@gmail.com"
+            "name": "trevorgerhardt"
         },
         {
-            "name": "yields",
-            "email": "yields@icloud.com"
+            "name": "yields"
         }
     ],
     "name": "merge-descriptors",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/component/merge-descriptors.git"
@@ -147,16 +129,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module merge-descriptors](#apidoc.module.merge-descriptors)
-
-
-
-# <a name="apidoc.module.merge-descriptors"></a>[module merge-descriptors](#apidoc.module.merge-descriptors)
 
 
 
